@@ -1,0 +1,1460 @@
+/*
+====================================
+Medium Screen - Others
+====================================
+*/
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+
+	.navbar-nav {
+	    margin-left: 52px;
+	}
+
+	.navbar-nav li {
+	    padding: 10px 18px;
+	}
+
+	.contact-upper h1 {
+		font-size: 110px;
+	}
+
+	.contact-cnt h4,
+	.contact-right h4 {
+		font-size: 36px;
+	}
+
+	.contact-cnt p,
+	.contact-right p {
+		font-size: 18px;
+	}
+
+	.join-left,
+	.join-right {
+		padding: 35px 32px;
+	}
+
+	.join-left h2, 
+	.join-right h2 {
+		font-size: 50px;
+		margin-bottom: 100px;
+	}
+
+	.back-login a {
+		right: 30px;
+	}
+
+	.header-cntleft h1 {
+        font-size: 70px;
+    }
+
+    .header-cntright img {
+    	max-width: 300px;
+    }
+
+    .trade-box {
+    	padding: 50px 50px 60px;
+    }
+
+    .trade-box h2 {
+    	font-size: 30px;
+    }
+
+    .develop-upper h2 {
+    	font-size: 66px;
+    }
+
+    .develop-btmcnt h2 {
+    	font-size: 70px;
+    }
+
+    .community-cnt h2 {
+    	font-size: 50px;
+    }
+
+    .community-cnt p {
+    	font-size: 16px;
+    }
+
+    .showmore-btn a {
+    	font-size: 16px;
+    }
+
+    .earn-part {
+    	padding: 60px 60px 50px
+    }
+
+    .earn-left {
+    	padding: 185px 40px;
+    }
+
+    .earn-box span {
+    	font-size: 32px;
+    }
+
+    .earn-box h4 {
+    	margin: 12px 0;
+    }
+
+    .earn-box {
+    	padding: 26px 16px;
+    }
+
+    .earn-right h2 {
+    	font-size: 60px;
+    	line-height: 57px;
+    	letter-spacing: -1px;
+    }
+
+    .stot2-main {
+    	padding: 54px 50px;
+    }
+
+    .stot2-left h2 {
+	    font-size: 52px;
+	    line-height: 42px;
+	    letter-spacing: -2px;
+	    margin-bottom: 40px;
+	}
+
+	.stot2-left p {
+		font-size: 16px;
+		margin-top: 20px;
+	}
+
+    .porcess-titl h2 {
+        font-size: 60px;
+        letter-spacing: -1.5px;
+    }
+
+    .porcess-area {
+        padding-top: 140px;
+    }
+
+    .porcess-main {
+        grid-gap: 46px;
+    }
+
+    .porcess-item {
+        padding: 35px 50px 45px;
+    }
+
+    .porcess-item h2 {
+        font-size: 42px;
+        letter-spacing: -2px;
+        margin-top: 80px;
+        margin-bottom: 21px;
+    }
+
+    .porcess-item h6 {
+        font-size: 36px;
+        letter-spacing: -1px;
+    }
+
+    .porcess-item p {
+        font-size: 17px;
+    }
+
+    .choose-area {
+        padding-top: 45px;
+    }
+
+    .choose-upper h2 {
+        font-size: 56px;
+        letter-spacing: -2px;
+    }
+
+    .choose-main {
+        padding-top: 80px;
+    }
+
+    .choose-main table thead th {
+        font-size: 21px;
+        letter-spacing: 0px;
+    }
+
+    .choose-main table thead th:first-child {
+        padding-left: 26px;
+    }
+
+    .choose-main table td {
+        font-size: 21px;
+    }
+
+    .choose-main table td:first-child {
+        padding-left: 26px;
+        font-size: 18px;
+    }
+
+    .choose-main table td h4 {
+        font-size: 28px;
+        letter-spacing: 0px;
+    }
+
+    .choose-main table td a {
+        padding: 10px 24px;
+    }
+
+    .benefit-upper h2 {
+        font-size: 60px;
+        letter-spacing: -2px;
+    }
+
+    .benefit-main {
+        padding-top: 60px;
+        grid-gap: 24px;
+    }
+
+    .benefit-item {
+        padding: 35px 30px;
+    }
+
+    .benefit-item h4 {
+        font-size: 24px;
+        margin: 30px 0 40px;
+    }
+
+    .benefit-item p {
+        font-size: 17px;
+    }
+
+    .trade-box4 h3 {
+        font-size: 170px;
+        line-height: 120px;
+    }
+
+    .trade-box5 h2,
+    .trade-box2 h2 {
+        line-height: 70px;
+    }
+
+    .trade-box2 h3 {
+        font-size: 85px;
+        line-height: 90px;
+    }
+
+    .glove-item img {
+        height: 320px;
+    }
+
+
+}
+
+/*
+====================================
+Small Screen - Tablate
+====================================
+*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+	.modal-backdrop.show {
+	    opacity: 0.5;
+	}
+
+	.modal-backdrop {
+	    background-color: #000;
+	}
+
+	.top-bar {
+		display: none;
+	}
+
+	.menu-bar {
+		padding: 15px 0;
+	}
+
+	.footer-left {
+		max-width: 100%;
+		margin-bottom: 50px;
+	}
+
+	.contact-upper h1 {
+		font-size: 100px;
+	}
+
+	.contact-area {
+		padding: 120px 0 100px;
+	}
+
+	.join-right {
+		margin-top: 40px;
+	}
+
+	.join-area {
+		padding-bottom: 80px;
+	}
+
+	.register-wrapper {
+		padding-top: 60px;
+	}
+
+	.back-login a {
+		right: 16px;
+		top: 68px;
+	}
+
+	.header-cntleft h1 {
+        font-size: 50px;
+        letter-spacing: -2px;
+    }
+
+    .header-cntleft p {
+    	font-size: 16px;
+    }
+
+    .header-cntright img {
+    	max-width: 250px;
+    	top: 180px;
+    }
+
+    .menubar-home {
+    	padding: 0;
+    }
+
+    .header-cnt {
+    	padding: 100px 0 200px;
+    }
+
+    .brand-area {
+    	padding: 70px 0;
+    }
+
+    .brand-main {
+	    flex-wrap: wrap;
+	}
+
+	.brand-item {
+		width: 33.333%;
+	    padding: 20px 15px;
+	}
+
+	.trade-box {
+    	padding: 40px 40px 50px;
+    }
+
+    .trade-box h2 {
+    	font-size: 30px;
+    	margin-top: 100px;
+    }
+
+    .trade-upper p {
+    	font-size: 36px;
+    	letter-spacing: -1.2px;
+    	margin-bottom: 21px;
+    }
+
+    .trade-box img {
+    	max-width: 240px;
+    }
+
+    .develop-upper h2 {
+    	font-size: 54px;
+    	letter-spacing: -1px;
+    }
+
+    .develop-btmcnt h2 {
+    	font-size: 54px;
+    	letter-spacing: -1px;
+    }
+
+    .develop-main {
+    	padding: 54px 50px 45px;
+    }
+
+    .develop-stot {
+    	padding: 50px 20px;
+    }
+
+    .develop-upper p {
+    	font-size: 20px;
+    	padding: 10px 40px 8px;
+    }
+
+    .develop-main .coming-soon {
+    	font-size: 20px;
+    	top: -35px;
+    }
+
+    .more-part h2 {
+    	font-size: 54px;
+    }
+
+    .community-cnt h2 {
+    	font-size: 65px;
+    } 
+
+    .community-cnt {
+    	margin-top: 50px;
+    }
+
+    .earn-left {
+    	padding: 100px 40px;
+    }
+
+    .earn-box span {
+    	font-size: 40px;
+    }
+
+    .earn-box h4 {
+    	margin: 12px 0;
+    }
+
+    .earn-box {
+    	padding: 26px 16px;
+    }
+
+    .earn-right h2 {
+    	font-size: 70;
+    	line-height: 65px;
+    	letter-spacing: -1px;
+    }
+
+    .earn-right a {
+    	margin-top: 70px;
+    }
+
+    .earn-right {
+    	margin-top: 50px;
+    }
+
+    .overlay {
+    	background: rgba(0, 0, 0, 0.25);
+    	padding: 15px 0;
+    	min-height: 110vh;
+    }
+
+    .menubar-stot {
+    	padding: 0;
+    }
+
+    .header-stotcnt2 h1 {
+    	font-size: 48px;
+    }
+
+    .header-stotcnt2 p {
+    	font-size: 17px;
+    }
+
+    .stot2-main {
+    	padding: 54px 50px;
+    }
+
+    .stot2-left h2 {
+	    font-size: 62px;
+	    line-height: 52px;
+	    letter-spacing: -2px;
+	    margin-bottom: 40px;
+	}
+
+	.stot2-left {
+		margin-top: 50px;
+	}
+
+	.stot-area2 {
+		padding: 85px 0 120px;
+	}
+
+    .porcess-titl h2 {
+        font-size: 40px;
+        letter-spacing: -1px;
+        margin-bottom: 50px;
+    }
+
+    .porcess-area {
+        padding-top: 130px;
+    }
+
+    .porcess-main {
+        grid-gap: 25px;
+    }
+
+    .porcess-item {
+        padding: 30px 20px 30px;
+    }
+
+    .porcess-item h2 {
+        font-size: 32px;
+        letter-spacing: -1px;
+        margin-top: 54px;
+        margin-bottom: 21px;
+    }
+
+    .porcess-item h6 {
+        font-size: 28px;
+        letter-spacing: -1px;
+    }
+
+    .porcess-item p {
+        font-size: 16px;
+    }
+
+    .choose-area {
+        padding-top: 34px;
+    }
+
+    .choose-upper h2 {
+        font-size: 50px;
+        letter-spacing: -1.5px;
+    }
+
+    .choose-main {
+        padding-top: 60px;
+        overflow-x: scroll;
+    }
+
+    .choose-main table {
+        width: 940px;
+    }
+
+    .choose-main table thead th {
+        font-size: 21px;
+        letter-spacing: 0px;
+    }
+
+    .choose-main table thead th:first-child {
+        padding-left: 26px;
+    }
+
+    .choose-main table td {
+        font-size: 21px;
+    }
+
+    .choose-main table td:first-child {
+        padding-left: 26px;
+        font-size: 18px;
+    }
+
+    .choose-main table td h4 {
+        font-size: 28px;
+        letter-spacing: 0px;
+    }
+
+    .choose-main table td a {
+        padding: 10px 24px;
+    }
+
+    .benefit-area {
+        padding-top: 126px;
+    }
+
+    .benefit-upper h2 {
+        font-size: 42px;
+        letter-spacing: -1px;
+    }
+
+    .benefit-main {
+        padding-top: 60px;
+        grid-template-columns: 1fr 1fr;
+        grid-gap: 25px;
+    }
+
+    .benefit-item {
+        padding: 35px 30px;
+    }
+
+    .benefit-item h4 {
+        font-size: 24px;
+        margin: 30px 0 40px;
+    }
+
+    .benefit-item p {
+        font-size: 17px;
+    }
+
+    .trade-box4 h3 {
+        font-size: 150px;
+        line-height: 92px;
+    }
+
+    .trade-box2 h2,
+    .trade-box4 h2 {
+        line-height: 60px;
+        margin-top: 0;
+    }
+
+    .trade-box5 h2 {
+        line-height: 60px;
+        margin-top: 40px;
+    }
+
+    .trade-box2 h3 {
+        font-size: 56px;
+        line-height: 60px;
+        margin-bottom: 0;
+    }
+
+    .glove-item img {
+        height: 280px;
+    }
+
+}
+
+/*
+====================================
+Small Screen - Mobile
+====================================
+*/
+@media screen and (max-width: 767px) {
+
+	.container {
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+
+	.modal-backdrop.show {
+	    opacity: 0.5;
+	}
+
+	.modal-backdrop {
+	    background-color: #000000;
+	}
+
+	.top-bar {
+		display: none;
+	}
+
+	.menu-bar {
+		padding: 10px 0;
+	}
+
+	.footer-left {
+		max-width: 100%;
+		margin-bottom: 54px;
+	}
+
+	.footer-middle > div {
+		width: 50%;
+	}
+
+	.footer-right {
+		max-width: 85%;
+		margin-top: 54px;
+		margin-left: 0;
+	}
+
+	.footer-area {
+		padding: 120px 0 70px;
+	}
+
+	.copyright-part {
+		padding-top: 150px;
+	}
+
+	.copyright-upper ul li {
+		padding-left: 25px;
+	}
+
+	.contact-upper h1 {
+		font-size: 76px;
+	}
+
+	.contact-area {
+		padding: 100px 0 80px;
+	}
+
+	.join-right {
+		margin-top: 40px;
+	}
+
+	.join-area {
+		padding-bottom: 80px;
+	}
+
+	.join-left,
+	.join-right {
+		padding: 35px 32px;
+	}
+
+	.join-left h2, 
+	.join-right h2 {
+		font-size: 50px;
+		letter-spacing: -2px;
+		margin-bottom: 100px;
+	}
+
+	.login-wrapper {
+	    background: #1E1E1E;
+	}
+
+	.login-main {
+		max-width: 100%;
+		width: 100%;
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+
+	.register-wrapper {
+		padding-top: 40px;
+	}
+
+	.back-login a {
+		position: initial;
+	}
+
+	.back-login {
+		padding-left: 10px;
+		margin-bottom: 50px;
+	}
+
+	.header-cntleft h1 {
+        font-size: 46px;
+        letter-spacing: -2px;
+    }
+
+    .header-cntleft p {
+    	font-size: 16px;
+    	margin: 18px 0 30px;
+    }
+
+    .header-cntright img {
+    	max-width: 250px;
+    	top: 65px;
+    }
+
+    .menubar-home {
+    	padding: 0;
+    }
+
+    .header-cnt {
+    	padding: 70px 0;
+    }
+
+    .brand-area {
+    	padding: 70px 0;
+    }
+
+    .brand-main {
+	    flex-wrap: wrap;
+	}
+
+	.brand-item {
+		width: 33.333%;
+	    padding: 20px 15px;
+	}
+
+	.trade-box {
+    	padding: 35px 30px 40px;
+    	background-size: cover;
+    }
+
+    .trade-box h2 {
+    	font-size: 30px;
+    	letter-spacing: -1px;
+    	margin-top: 80px;
+    }
+
+    .trade-upper p {
+    	font-size: 25px;
+    	letter-spacing: -0.8px;
+    	margin-bottom: 21px;
+    }
+
+    .trade-box img {
+    	max-width: 230px;
+    }
+
+    .develop-upper h2 {
+    	font-size: 40px;
+    	letter-spacing: -0.5px;
+    }
+
+    .develop-btmcnt h2 {
+    	font-size: 40px;
+    	letter-spacing: -1px;
+    }
+
+    .develop-main {
+    	padding: 35px 30px 35px;
+    }
+
+    .develop-stot {
+    	padding: 40px 20px;
+    }
+
+    .develop-upper p {
+    	font-size: 18px;
+    	padding: 10px 32px 8px;
+    }
+
+    .develop-main .coming-soon {
+    	font-size: 18px;
+    	top: -30px;
+    }
+
+    .more-part h2 {
+    	font-size: 40px;
+    }
+
+    .develop-btmcnt p,
+    .more-part p {
+    	font-size: 16px;
+    }
+
+    .more-part h6 {
+    	font-size: 17px;
+    }
+
+    .develop-btmcnt a,
+    .more-part a {
+    	font-size: 17px;
+    }
+
+    .stot-accbox {
+    	padding: 25px 20px 22px;
+    }
+
+    .accbox-cnt h2 span {
+    	margin-left: 12px;
+    }
+
+    .community-main {
+    	padding: 45px 40px;
+    	margin-top: 70px;
+    }
+
+    .community-cnt {
+    	margin-top: 46px;
+    }
+
+    .community-cnt h2 {
+    	font-size: 50px;
+    }
+
+    .community-cnt p {
+    	font-size: 17px;
+    }
+
+    .showmore-btn a {
+    	font-size: 17px;
+    }
+
+    .earn-left {
+    	padding: 100px 40px;
+    }
+
+    .earn-box span {
+    	font-size: 32px;
+    }
+
+    .earn-box h4 {
+    	margin: 12px 0;
+    }
+
+    .earn-box {
+    	padding: 26px 16px;
+    }
+
+    .earn-right h2 {
+    	font-size: 60px;
+    	line-height: 57px;
+    	letter-spacing: -1px;
+    }
+
+    .earn-right a {
+    	margin-top: 70px;
+    }
+
+    .earn-right {
+    	margin-top: 50px;
+    }
+
+    .menubar-stot {
+    	min-height: 100vh;
+    }
+
+    .overlay {
+    	background: rgba(0, 0, 0, 0.25);
+    	padding: 15px 0;
+    	min-height: 100vh;
+    }
+
+    .header-stotcnt2 {
+    	padding: 75px 0 150px;
+    }
+
+    .menubar-stot {
+    	padding: 0;
+    }
+
+    .header-stotcnt2 h1 {
+    	font-size: 40px;
+    }
+
+    .header-stotcnt2 h6 {
+    	font-size: 16px;
+    }
+
+    .header-stotcnt2 p {
+    	font-size: 17px;
+    }
+
+    .stot2-main {
+    	padding: 40px 30px;
+    }
+
+    .stot2-left h2 {
+	    font-size: 50px;
+	    line-height: 42px;
+	    letter-spacing: -2px;
+	    margin-bottom: 40px;
+	}
+
+	.stot2-left p {
+		font-size: 16px;
+		margin-top: 20px;
+	}
+
+	.stot2-left {
+		margin-top: 50px;
+	}
+
+	.stot-area2 {
+		padding: 70px 0 100px;
+	}
+
+    .porcess-titl h2 {
+        font-size: 36px;
+        letter-spacing: -1px;
+        margin-bottom: 46px;
+    }
+
+    .porcess-area {
+        padding-top: 130px;
+    }
+
+    .porcess-main {
+        grid-gap: 30px;
+        grid-template-columns: 1fr;
+    }
+
+    .porcess-item {
+        padding: 40px 30px 40px;
+    }
+
+    .porcess-item h2 {
+        font-size: 36px;
+        letter-spacing: -1px;
+        margin-top: 65px;
+        margin-bottom: 21px;
+    }
+
+    .porcess-item h6 {
+        font-size: 32px;
+        letter-spacing: -1px;
+    }
+
+    .porcess-item p {
+        font-size: 18px;
+    }
+
+    .choose-area {
+        padding-top: 34px;
+    }
+
+    .choose-upper h2 {
+        font-size: 40px;
+        letter-spacing: -1px;
+    }
+
+    .choose-main {
+        padding-top: 50px;
+        overflow-x: scroll;
+    }
+
+    .choose-main table {
+        width: 940px;
+    }
+
+    .choose-main table thead th {
+        font-size: 21px;
+        letter-spacing: 0px;
+    }
+
+    .choose-main table thead th:first-child {
+        padding-left: 26px;
+    }
+
+    .choose-main table td {
+        font-size: 21px;
+    }
+
+    .choose-main table td:first-child {
+        padding-left: 26px;
+        font-size: 18px;
+    }
+
+    .choose-main table td h4 {
+        font-size: 28px;
+        letter-spacing: 0px;
+    }
+
+    .choose-main table td a {
+        padding: 10px 24px;
+    }
+
+    .benefit-area {
+        padding-top: 126px;
+    }
+
+    .benefit-upper h2 {
+        font-size: 36px;
+        letter-spacing: -0.5px;
+    }
+
+    .benefit-main {
+        padding-top: 50px;
+        grid-template-columns: 1fr;
+        grid-gap: 30px;
+    }
+
+    .flickity-prev-next-button.previous {
+        left: 10%;
+    }
+
+    .flickity-prev-next-button.next {
+        right: 10%;
+    }
+
+
+    .trade-box4 h3 {
+        font-size: 90px;
+        line-height: 70px;
+        margin-top: 64px;
+    }
+
+    .trade-box2 h2,
+    .trade-box4 h2 {
+        line-height: 46px;
+        margin-top: 0;
+    }
+
+    .trade-box5 h2 {
+        line-height: 46px;
+        margin-top: 40px;
+    }
+
+    .trade-box2 h3 {
+        font-size: 46px;
+        line-height: 50px;
+        margin-bottom: 0;
+    }
+
+    .glove-item img {
+        height: initial;
+    }
+
+
+}
+
+@media screen and (max-width: 575px) {
+	.footer-cnt ul li a {
+		font-size: 15px;
+	}
+
+	.copyright-part {
+		padding-top: 125px;
+	} 
+
+	.copyright-upper {
+		display: block;
+		text-align: center;
+	}
+
+	.copyright-upper ul li {
+		padding: 0 12px;
+	}
+
+	.copyright-upper ul {
+		margin-top: 20px;
+	}
+
+	.contact-upper h1 {
+		font-size: 56px;
+	}
+
+	.contact-area {
+		padding: 86px 0 66px;
+	}
+
+	.contact-cnt h4,
+	.contact-right h4 {
+		font-size: 32px;
+	}
+
+	.contact-cnt p,
+	.contact-right p {
+		font-size: 17px;
+	}
+
+	.contact-cnt {
+		margin-bottom: 65px;
+	}
+
+	.contact-main {
+		padding-top: 65px;
+	}
+
+	.contact-right h4 {
+		margin-bottom: 25px;
+	}
+
+	.join-main {
+		padding-top: 65px;
+	}
+
+	.join-area {
+		padding-bottom: 60px;
+	}
+
+	.join-left,
+	.join-right {
+		padding: 30px 20px;
+		border-radius: 16px;
+	}
+
+	.join-left h2, 
+	.join-right h2 {
+		font-size: 38px;
+		margin-bottom: 70px;
+	}
+
+	.login-item img {
+	    width: 285px;
+	}
+
+	.login-upper {
+	  	padding: 20px 24px;
+	}
+
+	.register-upper img {
+		width: 225px;
+	}
+
+	.header-cntleft h1 {
+        font-size: 34px;
+        letter-spacing: -1px;
+    }
+
+    .header-cntleft p {
+    	font-size: 16px;
+    }
+
+    .header-cntright img {
+    	max-width: 250px;
+    	top: 40px;
+    }
+
+    .menubar-home {
+    	padding: 0;
+    }
+
+    .header-cnt {
+    	padding: 65px 0 50px;
+    }
+
+    .brand-area {
+    	padding: 65px 0;
+    }
+
+    .brand-main {
+	    flex-wrap: wrap;
+	}
+
+	.brand-item {
+		width: 50%;
+	    padding: 20px 20px;
+	}
+
+	.trade-box {
+    	padding: 26px 24px 30px;
+    	background-size: cover;
+    	border-radius: 15px;
+    }
+
+    .trade-box h2 {
+    	font-size: 30px;
+    	letter-spacing: 0px;
+    	margin-top: 65px;
+    }
+
+    .trade-upper p {
+    	font-size: 18px;
+    	letter-spacing: -0.2px;
+    	margin-bottom: 20px;
+    }
+
+    .trade-box img {
+    	max-width: 185px;
+    }
+
+    .develop-area {
+    	padding: 85px 0 60px;
+    }
+
+    .develop-upper h2 {
+    	font-size: 26px;
+    	letter-spacing: -0.5px;
+    }
+
+    .develop-btmcnt h2 {
+    	font-size: 28px;
+    	letter-spacing: -0.5px;
+    }
+
+    .develop-main {
+    	padding: 25px 20px 30px;
+    	margin-top: 90px;
+    }
+
+    .develop-stot {
+    	padding: 36px 16px;
+    }
+
+    .develop-upper p {
+    	font-size: 16px;
+    	padding: 10px 30px 8px;
+    }
+
+    .develop-main .coming-soon {
+    	font-size: 18px;
+    	left: 20px;
+    }
+
+    .more-part h2 {
+    	font-size: 36px;
+    }
+
+    .develop-btmcnt p,
+    .more-part p {
+    	font-size: 16px;
+    }
+
+    .more-part h6 {
+    	font-size: 16px;
+    }
+
+    .develop-btmcnt a,
+    .more-part a {
+    	font-size: 17px;
+    }
+
+    .more-part {
+    	margin-top: 40px;
+    	padding-top: 50px;
+    }
+
+    .stot-accbox {
+    	padding: 24px 15px 22px;
+    	display: block;
+    	text-align: center;
+    }
+
+    .accbox-cnt p {
+    	font-size: 14px;
+    	margin-top: 15px;
+    }
+
+    .acccnt2 h2 {
+    	margin-left: 0;
+    	text-align: center;
+    	margin-top: 30px;
+    }
+
+    .community-main {
+    	padding: 30px 20px;
+    	margin-top: 50px;
+    }
+
+    .community-cnt {
+    	margin-top: 40px;
+    }
+
+    .community-cnt h2 {
+    	font-size: 46px;
+    }
+
+    .community-cnt p {
+    	font-size: 16px;
+    }
+
+    .showmore-btn a {
+    	font-size: 16px;
+    }
+
+    .glove-area {
+    	padding: 70px 0;
+    }
+
+    .earn-left {
+    	padding: 70px 20px;
+    }
+
+    .earn-box span {
+    	font-size: 25px;
+    }
+
+    .earn-box h4 {
+    	margin: 12px 0;
+    }
+
+    .earn-box p {
+    	font-size: 20px;
+    }
+
+    .earn-box {
+    	padding: 26px 16px;
+    }
+
+    .earn-right h2 {
+    	font-size: 44px;
+    	line-height: 40px;
+    	letter-spacing: -1px;
+    }
+
+    .earn-right p {
+    	font-size: 18px;
+    }
+
+    .earn-right a {
+    	margin-top: 65px;
+    }
+
+    .earn-right {
+    	margin-top: 50px;
+    }
+
+    .earn-area {
+    	padding-bottom: 72px;
+    }
+
+    .menubar-stot {
+    	min-height: initial;
+    }
+
+    .overlay {
+    	background: rgba(0, 0, 0, 0.3);
+    	padding: 15px 0;
+    	min-height: initial;
+    }
+
+    .header-stotcnt2 {
+    	padding: 70px 0 150px;
+    }
+
+    .menubar-stot {
+    	padding: 0;
+    }
+
+    .header-stotcnt2 h1 {
+    	font-size: 30px;
+    }
+
+    .header-stotcnt2 h6 {
+    	font-size: 15px;
+    }
+
+    .stot2-main {
+        padding: 30px 18px;
+    }
+
+    .stot2-left h2 {
+        font-size: 40px;
+        line-height: 34px;
+        letter-spacing: -1px;
+        margin-bottom: 30px;
+    }
+
+    .stot-area2 {
+        padding: 65px 0 90px;
+    }
+
+    .porcess-titl h2 {
+        font-size: 28px;
+        letter-spacing: -0.5px;
+        margin-bottom: 35px;
+    }
+
+    .porcess-area {
+        padding-top: 120px;
+    }
+
+    .porcess-item {
+        padding: 30px 20px 30px;
+    }
+
+    .porcess-item h2 {
+        font-size: 32px;
+        letter-spacing: -0.5px;
+        margin-top: 60px;
+        margin-bottom: 21px;
+    }
+
+    .porcess-item h6 {
+        font-size: 26px;
+        letter-spacing: -0.5px;
+    }
+
+    .porcess-item p {
+        font-size: 16px;
+    }
+
+    .trade-area2 {
+        padding-top: 65px;
+    }
+
+     .choose-upper h2 {
+        font-size: 32px;
+        letter-spacing: 0.5px;
+    }
+
+    .benefit-item {
+        padding: 35px 30px;
+    }
+
+    .benefit-item h4 {
+        font-size: 24px;
+        margin: 30px 0 40px;
+    }
+
+    .benefit-item p {
+        font-size: 17px;
+    }
+
+    .carousel-cell {
+        width: 100%;
+    }
+
+    .flickity-prev-next-button.previous {
+        left: 5%;
+    }
+
+    .flickity-prev-next-button.next {
+        right: 5%;
+    }
+
+    .trade-box4 h3 {
+        font-size: 70px;
+        line-height: 56px;
+        margin-top: 50px;
+    }
+
+    .trade-box2 h2,
+    .trade-box4 h2 {
+        line-height: 30px;
+        margin-top: 0;
+    }
+
+    .trade-box5 h2 {
+        line-height: 32px;
+        margin-top: 40px;
+    }
+
+    .trade-box2 h3 {
+        font-size: 36px;
+        line-height: 36px;
+        margin-bottom: 0;
+    }
+
+    .pttd {
+        padding-top: 100px;
+    }
+
+}
