@@ -1286,6 +1286,10 @@ header-area start
     margin-top: 20px;
 }
 
+.trade-box ul li{
+    margin-bottom: 15px;
+}
+
 .trade-box img {
     max-width: 254px;
 }
@@ -1807,7 +1811,7 @@ header-area start
 .porcess-area {
     padding-top: 165px;
     min-height: 800px;
-    background-image: url(images/experience.jpg);
+/*    background-image: url(images/experience.jpg);*/
 }
 
 .porcess-titl h2 {
@@ -1839,6 +1843,13 @@ header-area start
     padding: 40px 60px 46px;
     display:flex;
     justify-content: center;
+}
+
+@media screen and (max-width: 991px) {
+    .porcess-item {
+        margin-left: 50px;
+        justify-content: left !important;
+    }
 }
 
 .porcess-item ul{
