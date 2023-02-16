@@ -468,6 +468,8 @@ Small Screen - Tablate
 
     .porcess-item {
         padding: 30px 20px 30px;
+        margin-left: 20px;
+        justify-content: left;
     }
 
     .porcess-item h2 {
@@ -927,6 +929,8 @@ Small Screen - Mobile
 
     .porcess-item {
         padding: 40px 30px 40px;
+        margin-left: 20px;
+        justify-content: left;
     }
 
     .porcess-item h2 {
